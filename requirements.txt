@@ -1,0 +1,4 @@
+beautifulsoup4==4.6.0
+openpyxl==2.5.1
+chardet==3.0.4
+lxml==4.2.0
